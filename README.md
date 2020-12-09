@@ -2,7 +2,7 @@
 
 # Webinar - State-of-the-art Machine Learning in Julia
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MachineLearningReply/webinar-machine-learning-in-julia/master?filepath=main.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MachineLearningReply/merck-webinar-machine-learning-in-julia/master?filepath=main.ipynb)
 
 This Webinar is for you, if you like to learn more about Julia and how it features advanced machine learning.
 
