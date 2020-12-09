@@ -1,24 +1,30 @@
-![header](https://d25m59h0ya0u4t.cloudfront.net/pub/uploadedImages/3179520201006_ML_JuliaContentTT%20with%20language-100.jpg)
+![julialogo](https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-logo-mask.png)
 
-# Reply Webinar - State-of-the-art Machine Learning in Julia
+# Webinar - State-of-the-art Machine Learning in Julia
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MachineLearningReply/webinar-machine-learning-in-julia/master?filepath=main.ipynb)
 
-During this session you'll get to know Julia's powerful core design, the Multiple DIspatch and learn more about Flux.jl in order to do state-of-the-art machine learning with just a few lines of code. This Webinar is for you, if you like to learn more about Julia and why you should use it, if you like to try advanced machine learning.
+This Webinar is for you, if you like to learn more about Julia and how it features advanced machine learning.
 
 What you will learn
-* How to use Julia and Multiple Dispatch as well as Flux.jl
-* learn more on scientific machine learning
- 
+
+* How to use Julia and Multiple Dispatch, Julia's powerful core design
+* the simplicity of [**Flux.jl**](https://fluxml.ai/) and [**scientific machine learning**](https://sciml.ai/)
+
 Preparatory material & requirements
+
 * You should have a beginners knowhow on programming
 
-Author: Stephan Sahm, s.sahm@reply.de, [Julia User Group Munich](https://www.meetup.com/Julia-User-Group-Munich/).
+Author: Stephan Sahm, s.sahm@reply.de, [Machine Learning Reply](https://www.reply.com/machine-learning-reply/de/), [Julia User Group Munich](https://www.meetup.com/Julia-User-Group-Munich/).
+
+<img src="https://d11wkw82a69pyn.cloudfront.net/siteassets/images/logos/companies/machine-learning-reply-logo.png" alt="" height="50"/>
+<img src="https://d11wkw82a69pyn.cloudfront.net/machine-learning-reply/de/content/siteassets/juliausergroupmunich.jpeg" alt="" height="100"/>
 
 
 ## Why Julia?
 
 **Why was Julia created?**
+
 Definitely read this now impressively old post by Julia founders by Jeff Bezanson, Stefan Karpinski, Viral B. Shah, and Alan Edelman https://julialang.org/blog/2012/02/why-we-created-julia/.
 
 Here my favourite passage
